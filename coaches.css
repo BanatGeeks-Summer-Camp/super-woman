@@ -1,0 +1,34 @@
+body {
+    font-family: 'Cairo', sans-serif;
+    padding: 40px;
+}
+
+.body{
+    display: flex;
+    justify-content: space-between;
+}
+.ssss{
+    font-family: 'Pacifico', cursive;
+    position: absolute ;
+    left: 23px;
+    bottom: 20px;
+    
+}
+.asas{
+    font-family: 'Pacifico', cursive;
+    position: absolute;
+    left: 370px;
+    bottom: 20px;
+}
+.twit{
+    position: absolute;
+    left: 900px;
+    bottom: 40px;
+}
+.linm{
+position: absolute;
+left: 980px;
+bottom: 40px;
+}
+
+

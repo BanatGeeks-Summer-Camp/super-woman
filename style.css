@@ -1,0 +1,122 @@
+.menu{ 
+width: 100%;
+background-color: white;
+
+}
+.super-women{
+
+margin-top: 150px;
+margin-left: 20px;
+width: 127px;
+height: px;
+color: black; 
+text-align: left;
+font-family: 'Pacifico', cursive;
+}
+.home{
+    margin-top: 100px;
+    margin-left: 120px;
+    text-decoration: none;
+    color: black;
+    text-align: left;
+    font-family: 'Rowdies', cursive;
+font-family: 'Rubik', sans-serif;
+color: blue;
+}
+.about{
+    margin-top: 20px;
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    text-align: left;
+    font-family: 'Bebas Neue', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Rowdies', cursive;
+font-family: 'Rubik', sans-serif;
+}
+.coaches{
+margin-top: 20px;
+margin-left: 15px;
+text-decoration: none;
+color: black;
+font-family: 'Rowdies', cursive;
+font-family: 'Rubik', sans-serif;
+}
+.contact-us{
+    margin-top: 20px;
+    margin-left: 15px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Rowdies', cursive;
+font-family: 'Rubik', sans-serif;
+}
+.join-in{
+    margin-top: 20px;
+    margin-left:90px;
+    width: 123px;
+    height: 50px;
+    left: 1167px;
+background-color: #ff8b14 ;
+color: white;
+text-align: center;
+border-radius: 8px;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Rowdies', cursive;
+font-family: 'Rubik', sans-serif;
+}
+.super-women-picture{
+    background-repeat: no-repeat,repeat;
+    background-image: url("super women picture.png");
+    background: transparent;
+    
+}
+.About{
+    height: 70px;
+    width: 220px;
+    background: #1421ff;
+    border-radius: 8px;
+    font-family: 'Rubik', sans-serif;
+    margin-right: 10px;
+    color: white;
+    font-size: 10px;
+}
+.view-all-coaches{
+    width:220px;
+    height: 70px;
+    background-color: white;
+    border: solid #1421ff;
+    color: blue;
+    border-radius: 8px;
+font-family: 'Rubik', sans-serif;
+}
+.h{
+text-align: left;
+color: black;
+font-family: 'Rowdies', cursive;
+}
+.ABOUT{
+    margin-top: 164px;
+    text-align: left;
+    color: black;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Rowdies', cursive;
+    font-family: 'Rubik', sans-serif;
+}
+.buttons {
+    margin-top: 20px;
+    display: flex;
+}
+.main-body {
+    display: flex;
+    flex-direction: column;
+}
+.hone-page__body {
+    display: flex;
+}
+.words{
+    text-align: left;
+color: black;
+font-family: 'Rowdies', cursive;
+}

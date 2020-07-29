@@ -1,0 +1,35 @@
+.backy {
+  right: 20px;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+}
+
+.superhh {
+  display: flex;
+  justify-content: space-between;
+  left: 20px;
+}
+.GHGH {
+  display: flex;
+  justify-content: space-between;
+}
+.tyty {
+  color: black;
+}
+
+.rrr {
+  top: 688px;
+  left: 870px;
+  width: 219px;
+  height: 24px;
+  text-align: center;
+  color: blue;
+}
+.bb {
+  color: black;
+}
+.ddo {
+  position: absolute;
+  display: flex;
+}
